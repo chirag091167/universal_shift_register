@@ -1,3 +1,5 @@
+`timescale 10ns/1ns
+
 module uni_shift_reg(clr,clk,sel,in,out);
 input clr,clk;
 input[1:0] sel;
